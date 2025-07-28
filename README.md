@@ -3,7 +3,7 @@
 ## Description
 
 A simple CLI tool for tracking and managing your to-do list. This is a sample solution for the [Task Tracker project on **roadmap.sh**](https://roadmap.sh/projects/task-tracker). The tasks are stored in a JSON file.
-
+  
 ## Key Features
 
 - **Add a Task**
@@ -16,6 +16,13 @@ A simple CLI tool for tracking and managing your to-do list. This is a sample so
     - done
     - all (default)
 - **Delete a Task by ID**
+
+## Installation
+Using pip:
+```bash
+$ pip install git+https://github.com/christianjaytibi/taskman.git
+```
+Once installation is done, you can directly use the tool in the command line.
 
 ## Usage
 
